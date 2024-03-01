@@ -5,6 +5,7 @@ body {
     justify-content: center;
     height: 100vh;
     background-color: #fff;
+    font-family:sans-serif;
 }
 
 .container {
@@ -70,10 +71,11 @@ input {
 }
 
 blockquote{
-    padding: 10% 0 10% 0;
+    padding-top: 10%;
 }
 
-h2{
+h3{
+    padding-top: 5%;
     color: gray;
-    font-family:sans-serif;
+ 
 }
